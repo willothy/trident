@@ -1,5 +1,5 @@
 use criterion::{black_box, criterion_group, criterion_main, Criterion};
-use trie::Trie;
+use trident::Trie;
 
 fn searching(c: &mut Criterion) {
     let mut trie = Trie::new();

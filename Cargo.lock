@@ -882,7 +882,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "trie"
+name = "trident"
 version = "0.1.0"
 dependencies = [
  "criterion",
